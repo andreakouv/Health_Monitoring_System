@@ -1,0 +1,92 @@
+.allButtons button {
+    background-color: #bed5e8;
+    margin-top:10px;
+    border: 2px solid grey ;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    width:150px;
+    height:30px;
+    padding: 0px;
+}
+
+.allButtons button:hover {
+    background-color: lemonchiffon;
+    color: black;
+} 
+
+.download-table-xls-button {
+    background-color:#bed5e8;
+    border:solid grey 2px;
+    border-radius: 2px;
+}
+
+.userButtons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    column-gap: 3%;
+}
+
+.allButtons #clear_all {
+    margin-bottom: 20px;
+}
+
+#table-to-xls {
+    margin-top : 15px;
+}
+
+#table-to-xls thead th {
+    background-color:#bed5e8;
+    border:solid grey 2px;
+}
+
+#table-to-xls tbody td {
+    border:solid #bed5e8 1px;
+}
+
+Table thead #tr1 {
+    width: 200;
+
+}
+
+.charts1, .charts2, .charts3, .charts4{
+    width: 500px;
+    margin: 20px;
+}
+
+.charts_wrapper1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.charts_wrapper2 {
+    display: flex;
+    flex-direction: row;
+}
+
+#xl_but {
+    background-color: #bed5e8;
+    border-radius: 2px;
+    margin-left : 20px;
+    border: 2px solid grey ;
+    margin-bottom: 20px;
+}
+
+.excel_wrapper {
+    display: flex;
+    flex-direction: row; 
+}
+
+.select_wrapper select{
+    width:100px;
+    height: 27px;
+    border-radius: 2px;
+    border: 2px solid grey ;
+    margin-right: 20px;
+}

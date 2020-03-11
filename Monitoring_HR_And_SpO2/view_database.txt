@@ -1,0 +1,5 @@
+show dbs
+use bioBase
+show collections
+db.bioItems.find().pretty()
+
