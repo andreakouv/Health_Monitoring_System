@@ -1,3 +1,5 @@
+In Mongo Shell:
+
 show dbs
 use bioBase
 show collections
