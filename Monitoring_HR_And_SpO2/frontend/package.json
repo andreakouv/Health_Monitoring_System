@@ -16,7 +16,7 @@
         "reactstrap": "^8.1.1",
         "recharts": "^2.0.0-beta.1",
         "socket.io-client": "^2.3.0",
-        "xlsx": "^0.15.3",
+        "xlsx": "^0.17.0",
         "xlsx-style": "^0.8.13"
     },
     "scripts": {
